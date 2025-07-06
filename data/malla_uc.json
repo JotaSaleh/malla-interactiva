@@ -1,0 +1,218 @@
+{
+  "nombre": "Ingeniería Comercial UC - Malla Común",
+  "creditos_totales": 270,
+  "asignaturas": [
+    {
+      "codigo": "MAT1610",
+      "nombre": "Cálculo I",
+      "creditos": 10,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "EAA1110",
+      "nombre": "Introducción a la Economía",
+      "creditos": 10,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "EAA1210",
+      "nombre": "Contabilidad",
+      "creditos": 10,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "EAA1310",
+      "nombre": "Comportamiento Organizacional",
+      "creditos": 10,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "VRA100C",
+      "nombre": "Examen de Comunicación Escrita",
+      "creditos": 0,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "MAT1620",
+      "nombre": "Cálculo II",
+      "creditos": 10,
+      "prerrequisitos": [
+        "MAT1610"
+      ]
+    },
+    {
+      "codigo": "MAT1712",
+      "nombre": "Introducción al Álgebra Lineal",
+      "creditos": 10,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "EAE1100",
+      "nombre": "Introducción a la Microeconomía",
+      "creditos": 10,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "TTT1",
+      "nombre": "English Placement Test",
+      "creditos": 0,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "EAZ1520",
+      "nombre": "Probabilidad y Estadística",
+      "creditos": 10,
+      "prerrequisitos": [
+        "MAT1610"
+      ]
+    },
+    {
+      "codigo": "EAE1200",
+      "nombre": "Introducción a la Macroeconomía",
+      "creditos": 10,
+      "prerrequisitos": [
+        "EAE1100"
+      ]
+    },
+    {
+      "codigo": "EAZ1130",
+      "nombre": "Análisis Económico de la Realidad Chilena",
+      "creditos": 10,
+      "prerrequisitos": [
+        "EAE1200"
+      ]
+    },
+    {
+      "codigo": "EAA1150",
+      "nombre": "Fundamentos de Finanzas",
+      "creditos": 10,
+      "prerrequisitos": [
+        "EAA1210"
+      ]
+    },
+    {
+      "codigo": "EAZ1510",
+      "nombre": "Inferencia Estadística",
+      "creditos": 10,
+      "prerrequisitos": [
+        "EAZ1520"
+      ]
+    },
+    {
+      "codigo": "EAZ1230",
+      "nombre": "Aplic. Matemáticas para Economía y Negocios",
+      "creditos": 10,
+      "prerrequisitos": [
+        "MAT1620",
+        "MAT1712"
+      ]
+    },
+    {
+      "codigo": "EAE1310",
+      "nombre": "Microeconomía I",
+      "creditos": 10,
+      "prerrequisitos": [
+        "EAE1100"
+      ]
+    },
+    {
+      "codigo": "EAA1190",
+      "nombre": "Estrategia de la Organización",
+      "creditos": 10,
+      "prerrequisitos": [
+        "EAA1310"
+      ]
+    },
+    {
+      "codigo": "EAZ1530",
+      "nombre": "Econometría",
+      "creditos": 10,
+      "prerrequisitos": [
+        "EAZ1510",
+        "EAZ1230"
+      ]
+    },
+    {
+      "codigo": "ICCI1003",
+      "nombre": "Introducción a la Programación",
+      "creditos": 10,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "EAE1320",
+      "nombre": "Microeconomía II",
+      "creditos": 10,
+      "prerrequisitos": [
+        "EAE1310"
+      ]
+    },
+    {
+      "codigo": "EAA1330",
+      "nombre": "Fundamentos de Marketing",
+      "creditos": 10,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "EAE2100",
+      "nombre": "Competencia y Mercado",
+      "creditos": 10,
+      "prerrequisitos": [
+        "EAE1320"
+      ]
+    },
+    {
+      "codigo": "EAA1290",
+      "nombre": "Teoría Financiera",
+      "creditos": 10,
+      "prerrequisitos": [
+        "EAA1150"
+      ]
+    },
+    {
+      "codigo": "EAA1370",
+      "nombre": "Marketing Analytics",
+      "creditos": 10,
+      "prerrequisitos": [
+        "EAA1330"
+      ]
+    },
+    {
+      "codigo": "EAA1430",
+      "nombre": "Contabilidad de Costos",
+      "creditos": 10,
+      "prerrequisitos": [
+        "EAA1210"
+      ]
+    },
+    {
+      "codigo": "EAE2200",
+      "nombre": "Macroeconomía I",
+      "creditos": 10,
+      "prerrequisitos": [
+        "EAE1200"
+      ]
+    },
+    {
+      "codigo": "EAA1420",
+      "nombre": "Contabilidad General",
+      "creditos": 10,
+      "prerrequisitos": [
+        "EAA1430"
+      ]
+    },
+    {
+      "codigo": "EAA1360",
+      "nombre": "Dirección de Personas",
+      "creditos": 10,
+      "prerrequisitos": [
+        "EAA1310"
+      ]
+    },
+    {
+      "codigo": "TTT2",
+      "nombre": "Filosofía para qué",
+      "creditos": 10,
+      "prerrequisitos": []
+    }
+  ]
+}
